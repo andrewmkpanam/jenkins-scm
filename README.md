@@ -1,12 +1,10 @@
 # jenkins-scm
-jenkins test
-new test
-new test
-new test 2
-333
+
 ## Github SCM project for Polling:
 
 1. Created a new project names my-first-job
-2. Connected JEnkins to the sourcevode management bu adding the github url
-![Alt text](./)
-![Alt text](./)
+2. Connected Jenkins to the sourcevode management by adding the github url
+![Alt text](./urlshow)
+3. Completed first build
+![Alt text](./firstjobbuild)
+4. Configured webhook triggering on jenkins console by checking the git SCM polling
