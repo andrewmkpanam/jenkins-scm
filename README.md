@@ -30,7 +30,8 @@ Commit message: "Update index.html"
 First time build. Skipping changelog.
 Finished: SUCCESS
 ![Alt text](./firstjobbuild.png)
-4. Configured webhook triggering on jenkins console by checking the git SCM polling
+4. Configured webhook triggering on jenkins console and github by checking the git SCM polling. Added Jenkins IP and port on github repository for polling.
+![Alt text](./webhookintegration.png)
 5. Pushed changes to origin and jenkins picked up and built again: see log below:
 
 Started on Jun 13, 2025, 2:21:36 PM
